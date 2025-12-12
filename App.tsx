@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Sidebar } from './components/Sidebar';
+import Sidebar from "./Sidebar";
 import { PresentationSectionId } from './types';
 import { Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
