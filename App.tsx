@@ -5,7 +5,7 @@ import { Menu, X } from 'lucide-react';
 import { motion, AnimatePresence } from 'framer-motion';
 
 // Import Section Components
-import { ObjectivesSlide } from './components/slides/ObjectivesSlide';
+
 import { SourcesSlide } from './components/slides/SourcesSlide';
 import { GenericContentSlide } from './components/slides/GenericContentSlide';
 
